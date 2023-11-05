@@ -1,38 +1,29 @@
-# “Just”
+# “Salute”
 
-by [Brad Frost](https://bradfrost.com)
+by [Vladislav Bivol]
 
-28 Jan 2014
+01 Oct 2023
 
 - - -
 
-I feel like an idiot while doing my job. A lot.
+"Salute, my friends!
 
-Now there’s a damn good chance I’m actually an idiot, but the self-respecting part of me wants to challenge that notion.
+In my native language, the word "salute" translates to "fireworks", but in many languages it serves as a warm and friendly greeting. 
+I first encountered this word as a child while watching a movie where a cheerful actor used it instead of "hello." 
+I was intrigued by this play on words and began to ponder its meaning. 
+I imagined a bright fireworks display - bright, loud, bursting with color, similar to the spectacular displays we see on New Year's Eve or during grand urban celebrations.
 
-When I get stuck on a task or am looking for recommendations for tools, resources, solutions, or whatever, I often take to Twitter to ask for help.
+Fireworks have always been synonymous with celebration, joy and good mood. And for me, they have become a symbol of friendly and productive communication with the people around me. 
+If "hello" a person can hear from different people several times a day, then "salute" stands out and requires a more attentive and sincere response. 
+I've grown to love the word "hello" for its ability to fill every encounter with a sense of celebration and positive anticipation.
 
-Seconds after posting my quandary, my stream gets flooded with a host of advice, links, insights, and opinions. This “crowd-sourcing my knowledgesphere” is a wonderful thing. But one word in all those proffered solutions tends to stick out in my mind like a jagged, rusty nail ready to figuratively jam itself into my eye socket.
+From that moment on, I incorporated the word "salute" into my everyday vocabulary. This association has become a source of inspiration and a talisman that makes every meeting, 
+no matter how routine, seem unique and promising. Such associations and metaphors can transform the ordinary into something extraordinary,
+filling even the most routine meetings with new, positive meaning.
 
-**“Just…”**
-
-As in “**Just** update your ruby gems, generate a new SSH key, and run a git rebase…“
-
-“**Just** clone the dev branch, add those three grunt tasks, and recompile…”
-
-“**Just** use this software, platform, toolkit, method…”
-
-“Just” makes me feel like an idiot. “Just” presumes I come from a specific background and studied certain courses in university. And fluent in certain technologies. And have read all the right books, articles, and resources. “Just” is a dangerous word.
-
-We approach problems equipped with our own set of experiences, perspective, and skills. It’s a struggle to step outside of our own perspective when communicating with others, but it’s essential to do so.
-
-The amount of available knowledge in our field (or any field) is growing larger, more complex, and more segmented all the time. That everyone has downloaded the same fundamental knowledge on any topic is becoming less and less probable. Because of this, we have to be careful not to make too many assumptions in our documentation, blog posts, tutorials, and communications.
-
-Imagine yourself explaining a particular task to an earlier version of yourself. Once upon a time, you didn’t know what you know now. Provide context. The beauty of [hypertext](https://en.wikipedia.org/wiki/Hypertext) is that we’re able to add much-needed context, fast. It’s helpful for newbies but easy enough for those already in-the-know to scan over. And making documentation more human-readable benefits everyone.
-
-I don’t envy those just entering the field of web development. Besides learning the basics, there’s an expectation to be proficient in an endless laundry list of buzzwords and technologies. I’m seven years into my career and still feel like I’m still on Chapter 1 of the Big Book of Web Design.
-
-So think twice before suggesting someone “just” [insert any task here]. You just might make them feel like an idiot.
+What's even more unusual is that I clearly remember the origin of this word in my vocabulary. 
+It is a bond I cherish, a little secret I share with those I greet with a "salute." 
+This simple word serves as a constant reminder of the uniqueness and potential of each interaction, turning each 'hello' into a miniature celebration of human connection."
 
 ## Process
 
