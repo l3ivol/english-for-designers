@@ -5,10 +5,15 @@
 
 ## First Draft
 
-# Just
+# Salute
 
-I often take to Twitter to ask for help when I get stuck on a task or am looking for recommendations for tools/resources/strategies/solutions. Seconds after posting my quandary, my stream gets flooded with a host of advice, links, insights, and opinions. "Just" makes me feel like an idiot. This "crowd-sourcing my knowledgesphere" is a wonderful thing, but one word in all those proffered solutions tends to stick out in my mind like a jagged, rusty nail ready to figuratively jam itself into my eye socket. As in "Just update your ruby gems, generate a new SSH key, and run a git rebase..."
+Salute guys.
 
-We approach problems equipped with our own set of experiences, perspective, and skills. It's extremely challenging to step outside of our own perspective when communicating with others, but it's increasingly essential to do so. Imagine yourself explaining a particular task to an earlier version of yourself. Provide context. The beauty of hypertext is that we're able to quickly add much-needed context helpful for n00bs but easy enough for those already in-the-know to scan over. The amount of available knowledge in our field (or any field really) is growing larger, more complex, and more segmented all the time.
-
-Because of this, we have to be careful not to make too many assumptions in our documentation, blog posts, tutorials, wikis, and communications. "Just" presumes I come from a specific background, studied certain courses in university, am fluent in certain technologies, and have read all the right books, articles, and resources. In addition to learning the fundamentals, there's an expectation to be proficient in an increasingly exhausting laundry list of buzzwords and technologies. I'm seven years into my career and still feel like I'm still on Chapter 1 of the Big Book of Web Design. So think twice before suggesting someone "just" [insert any task here]. You just might make them feel like an idiot.
+In my native language, the word salute translates to fireworks, but in many languages it can be used as a greeting.
+I once heard it on TV as a child when a cheerful and friendly actor in a movie said it instead of a greeting. 
+Being a kid I was interested in this word pun and thought about it a bit and imagined literally fireworks. 
+Bright, loud, colorful in the sky, like at New Year's Eve or a big city celebration.
+Fireworks are associated with a sense of celebration, fun and good cheer, so for me it's like a symbol of a friendly, productive and undoubtedly successful meeting with a fellow human being. Also a person hears the word hello several times a day from a large number of people and a salute is sure to stand out and you will receive the most attentive greeting in return. 
+I like the word salut. 
+Since then, I often say salute instead of hello.
+This association always sets me up positively for every new meeting and is a talisman for the productivity of our meeting. Such associations and metaphors help to look at everyday things differently and give them new positive meanings. And of course it is cool that I remember where this word came from in my vocabulary and it creates a special relationship between us.
