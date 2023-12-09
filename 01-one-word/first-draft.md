@@ -7,13 +7,10 @@
 
 # Salute
 
-Salute guys.
-
-In my native language, the word salute translates to fireworks, but in many languages it can be used as a greeting.
-I once heard it on TV as a child when a cheerful and friendly actor in a movie said it instead of a greeting. 
-Being a kid I was interested in this word pun and thought about it a bit and imagined literally fireworks. 
-Bright, loud, colorful in the sky, like at New Year's Eve or a big city celebration.
-Fireworks are associated with a sense of celebration, fun and good cheer, so for me it's like a symbol of a friendly, productive and undoubtedly successful meeting with a fellow human being. Also a person hears the word hello several times a day from a large number of people and a salute is sure to stand out and you will receive the most attentive greeting in return. 
-I like the word salut. 
-Since then, I often say salute instead of hello.
-This association always sets me up positively for every new meeting and is a talisman for the productivity of our meeting. Such associations and metaphors help to look at everyday things differently and give them new positive meanings. And of course it is cool that I remember where this word came from in my vocabulary and it creates a special relationship between us.
+I like the word Salute. 
+In my native language, the word salute translates to fireworks. 
+But once as a child I heard it on TV when an actor said it instead of hello. 
+As a kid I thought about it a lot and imagined literally fireworks. 
+Bright and in the sky, like on New Year's Eve or a big city holiday, but in honor of meeting the person I say salute to.
+Fireworks are associated with a holiday of fun and good cheer, so for me it is like a symbol of a successful meeting with a friend.
+This association is still relevant to me and I often say salute instead of hello and the cool thing is that I remember where this word came from as opposed to the word f*ck.
