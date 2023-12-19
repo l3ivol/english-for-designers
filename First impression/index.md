@@ -66,6 +66,7 @@ I moved away from my parents when I was 14 to live independently and support mys
 [GO UP](https://stolgeth.github.io/english-for-designers/about_me.html#return-to-navigation-page)
 
 ## **Poster for the premiere of the movie Home** 
+The movie is about a girl with obsessive-compulsive disorder, whose thoughts overpower her the whole movie forcing her to certain actions and eventually she finds a solution and gets them out of her mind.
 
 ![Untitled7](https://github.com/l3ivol/english-for-designers/blob/main/First%20impression/img/FilmPosterThoughts.png)
 
@@ -89,6 +90,8 @@ For this reason, with the help of a series of posters, I encourage you to carefu
 The aim of the work was to bring back the original values of rave culture and share it with the public to dispel hate and the prejudice around rave culture. 
 The new concept of a set of 8 posters for a client from the music industry, refers to the possibility of looking at the posters (electronic music and rave culture) from 3 different perspectives, explaining the basic principles of the rave movement, the original values of the subculture and the rules of conduct at rave events.
 The first superficial angle- is the essence of the music, the feelings, the story, the attributes of raves and the main visual part- through the eyes of a person who has some idea about electronic music but doesn't know it in depth. The second educational angle- has educational value for people who have no idea about rave culture, and for those who have little idea, it explains how to perceive the first angle. The third is fancier hidden code, info available based on knowledge of rave culture and their specific risu.
+
+![Untitled10](https://github.com/l3ivol/english-for-designers/blob/main/First%20impression/img/Screenshot%202023-12-19%20at%2012.53.41.png)
 
 
 
