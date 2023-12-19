@@ -17,60 +17,47 @@
 # Hello, I'm Vlad, a multi-disciplinary designer and art director living in Prague.
 ### (DiS.Graphic designer who loves his profession and improving every day!)
 
-![Profile Pircture] (https://github.com/l3ivol/english-for-designers/blob/main/First%20impression/img/DALL·E%202023-12-15%2004.45.23%20-%20a%20photo%20of%20simple%20being%20villain%20assembled%20from%20plastic%20trash%20.png)
+![Profile Pircture](https://github.com/l3ivol/english-for-designers/blob/main/First%20impression/img/IMAGE%202023-12-19%2011%3A04%3A12.jpg)
 
 ## About me
 
-**As a Creative Director with more than seven years of experience in visual arts,** my true passion lies in crafting visual identities. I hold a firm belief that the **visual identity forms the essence of a brand**. This belief drives my commitment to both the creation of branding and its marketing evolution.
+One of my personal philosophies is **challenging assumptions and looking for "out of the box" solutions, merging craft, intention and loosely-held convictions in order to build something truly great.**
 
-My experience spans several years in **designing and optimizing websites for users**. My enthusiasm for learning isn't confined to just design and UI/UX; it also encompasses fields like marketing, psychology, and personal development.
+My skills have about **5 years of practical** experience in creating visual identity for brands from different business sectors, specifically **creating logos, slogans, general concept of visual communication, web pages from small lendings to full-fledged online stores, packaging design and so on.** In addition to the visual side of the designer's work, I have extensive **experience in UX**, my strengths are in- **depth interviews, highlighting the main values of the brand and defining the positioning in the market, which contribute to a high conversion rate for the tasks at hand.**  
 
-I adhere to the Bauhaus principle that **form follows function**, upholding that my work should not only be aesthetically pleasing and timeless but also straightforward and practical for real-world application.
-
-[GO UP](https://stolgeth.github.io/english-for-designers/about_me.html#return-to-navigation-page)
-
----
-
-### What usually I get paid for:
-- **Creativity** to outstand
-- **Visual identity** that survives the test of time
-- **Improvisation** or making miracles happen
-- **Branding** that transcends the visual
-- **Marketing** to capture the mind
-- **Strategy** that makes sense for you
-- **UI Design** and how we can interact with it
-- **UX Optimization** not quite UX Research but almost there
-- **UX Copywriting and funneling** how to make people think and do what we need them to do....
-- **Business optimization** or how to get your money's worth
+My experience is not limited to UI/UX design; it also covers areas such as **marketing, psychology and personal brand.**
+I strive for **meticulous design excellence and adhere to analytical decision making and principal brand and individual product strategy** to create strong and confident brands that make a difference in people's lives.
 
 [GO UP](https://stolgeth.github.io/english-for-designers/about_me.html#return-to-navigation-page)
 
 ---
 
-### What I enjoy to spend *(my time)* on: 
-- Power building
-- Fitness plans
-- Diets and nutrition experimentation
-- Supplementation
-- Psychology
-- Behavioral science
-- Tech Enthusiast
-- AI fanatic
-- Fantasy and Sci-fi *(DND and Star Wars to be exact!)*
-- Character writing and design
-- Worldbuilding
-- And of course, friends and family
+### How can I be of use to you:
+- **Creativity and improvisation**, real miracles coming out of the supersystem at all hours of the day and night
+- **Analytics** for strong and confident positioning
+- **Branding** that sells and buys
+- **Marketing** to attract and stay in the mind of the consumer for years to come
+- **Strategy** that will allow you to maintain high standards on your own 
+- **UI design** and how we can interact with it
+- **UX abilities**- metrics, pirate funnels, Nielson's Eureka, Lean Canvas, and others
+- **UI capabilities** - functional, beautiful and tasteful
+
+[GO UP](https://stolgeth.github.io/english-for-designers/about_me.html#return-to-navigation-page)
+
+---
+
+### A little bit about my interests to see what I'm about: 
+- **Sports** of course, in a healthy body a healthy mind and a working head 
+- **Art**, something that fills me spiritually and really inspires me
+- **Psychology**, to get what I want from the world and to help those around me 
+
 
 [GO UP](https://stolgeth.github.io/english-for-designers/about_me.html#return-to-navigation-page)
 
 ---
 
 ### My origin story: 
-When I was about 13 or 14, I began my journey. I wanted to make a cool place for my gamer friends to hang out, but **we needed a profile picture** to show who we are. Later I found out those are logos. People usually pay for that, but I had no money, so **I decided to make it myself.** I had a blast and made something really cool, and that's how I started with graphic designer. I still use that picture for my Discord group to this day!
-
-My first big "job" was in 2018. I volunteered on a project called Hug Day about people from all over the world giving hugs to bring back physical contact. **It was awesome to see my work go global and to realize I could change things with my designs.**
-
-Now, I've been doing this as a job for over 7 years and playing with design stuff for 10 years. It's been an amazing ride!
+I moved away from my parents when I was 14 to live independently and support myself. Since then, I have faced hardships and various challenges every day, which have hardened me and given me a wealth of life experience that I have carried over into design. This profession has been a great opportunity for me to show my skills and truly define my place in the modern world.
 
 ---
 [GO UP](https://stolgeth.github.io/english-for-designers/about_me.html#return-to-navigation-page)
