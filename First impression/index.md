@@ -4,46 +4,79 @@
 - [About](#about)
 - [Featured Projects](#featured-projects)
 
-## About
+### Return to navigation page
+[BACK](https://stolgeth.github.io/english-for-designers/index.html)
 
-<!-- Consider including a headshot. We’re not designing, so keep the image width/height around 320px x 320px (square). Replace "surname" with your surname in the file name. -->
+### Content:
 
-![Write an alternative text description.](img/IMG_4680.jpg)
+- [**About me**](https://stolgeth.github.io/english-for-designers/about_me.html#about-me)
 
-Hey there, I'm Marek, a photographer. I graduate of Michael Academy. I've been in the world of photography for quite some time, creating portrait shots for Reporter magazine and collaborating with different companies to create portfolios of important people.
+- [**What usually I get paid for:**](https://stolgeth.github.io/english-for-designers/about_me.html#what-usually-i-get-paid-for)
 
-Beyond the lens, you'll often find me playing electric guitar or diving into some PlayStation gaming during my downtime. Back in the day, I was all about sports, but as the years roll by, I've developed a taste for kicking back with a good drink and taking it easy.
+- [**What I enjoy to spend (my time) on**](https://stolgeth.github.io/english-for-designers/about_me.html#what-i-enjoy-to-spend-my-time-on)
 
-If winter come, I'm all about hitting the slopes for some skiing action in the mountains. When summer comes, I trade ski for the motocross bike. It's all about balancing the artistic side of photography with the adrenaline rush of outdoor adventures.
+- [**My origin story**](https://stolgeth.github.io/english-for-designers/about_me.html#my-origin-story)
 
-## Featured Projects
+# Hi! I am Tomáš Trlíček your DiS.Grafik
+### (You were born with it, I studied to get here!)
 
-I've chosen projects that I'm happy with and have moved me in the professional world to where I am now. I chose projects in the art world. Since I studied film from the beginning I share this stage of work as well.
+![Profile Pircture](https://github.com/Stolgeth/english-for-designers/assets/133216768/28e6038b-529e-428e-9811-f4db8209a9e9)
 
-### JOJO RABBIT
+## About me
 
-- A movie for the American production company Fox Searchlight Pictures
-- Jojo Rabbit is a 2019 war comedy-drama film written and directed by Taika Waititi
-- I've done DIT and dailies work on the film.
+**As a Creative Director with more than seven years of experience in visual arts,** my true passion lies in crafting visual identities. I hold a firm belief that the **visual identity forms the essence of a brand**. This belief drives my commitment to both the creation of branding and its marketing evolution.
 
-<!-- Use a static poster image or animated GIF, but no video files. Again, keep the image width/height manageable, around 1280x x 720px (16:9 aspect ratio), or a max-width of 1280px. -->
+My experience spans several years in **designing and optimizing websites for users**. My enthusiasm for learning isn't confined to just design and UI/UX; it also encompasses fields like marketing, psychology, and personal development.
 
-![Write an alternative text description.](img/MV5BZjU0Yzk2MzEtMjAzYy00MzY0LTg2YmItM2RkNzdkY2ZhN2JkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_.jpg)
+I adhere to the Bauhaus principle that **form follows function**, upholding that my work should not only be aesthetically pleasing and timeless but also straightforward and practical for real-world application.
 
+[GO UP](https://stolgeth.github.io/english-for-designers/about_me.html#return-to-navigation-page)
 
-### Reporter Magazin
+---
 
-- Reporter is a Czech magazine published monthly since September 2014.
-- I've been working with the magazine for over three years now and together we create photographs for the articles that the writers create. The photographs are published both in print and in online articles.
-- I get to meet interesting people and create something that is printed every month and goes to the shops.
+### What usually I get paid for:
+- **Creativity** to outstand
+- **Visual identity** that survives the test of time
+- **Improvisation** or making miracles happen
+- **Branding** that transcends the visual
+- **Marketing** to capture the mind
+- **Strategy** that makes sense for you
+- **UI Design** and how we can interact with it
+- **UX Optimization** not quite UX Research but almost there
+- **UX Copywriting and funneling** how to make people think and do what we need them to do....
+- **Business optimization** or how to get your money's worth
 
-![Write an alternative text description.](img/IMG_4681.JPG)
+[GO UP](https://stolgeth.github.io/english-for-designers/about_me.html#return-to-navigation-page)
 
+---
 
-### McDonald's
-- Photoshoot of the owner of Czech McDonald's
-- The owner saw my work and requested me as a photographer. Since then we have been in touch and planning other projects.
-- The photographs were printed in magazines. The photos were taken because of the campaign that was going on, showing the people behind the company.
+### What I enjoy to spend *(my time)* on: 
+- Power building
+- Fitness plans
+- Diets and nutrition experimentation
+- Supplementation
+- Psychology
+- Behavioral science
+- Tech Enthusiast
+- AI fanatic
+- Fantasy and Sci-fi *(DND and Star Wars to be exact!)*
+- Character writing and design
+- Worldbuilding
+- And of course, friends and family
 
-![Write an alternative text description.](img/img666.jpg)
+[GO UP](https://stolgeth.github.io/english-for-designers/about_me.html#return-to-navigation-page)
 
+---
+
+### My origin story: 
+When I was about 13 or 14, I began my journey. I wanted to make a cool place for my gamer friends to hang out, but **we needed a profile picture** to show who we are. Later I found out those are logos. People usually pay for that, but I had no money, so **I decided to make it myself.** I had a blast and made something really cool, and that's how I started with graphic designer. I still use that picture for my Discord group to this day!
+
+My first big "job" was in 2018. I volunteered on a project called Hug Day about people from all over the world giving hugs to bring back physical contact. **It was awesome to see my work go global and to realize I could change things with my designs.**
+
+Now, I've been doing this as a job for over 7 years and playing with design stuff for 10 years. It's been an amazing ride!
+
+---
+[GO UP](https://stolgeth.github.io/english-for-designers/about_me.html#return-to-navigation-page)
+
+(This is the 10 years old picture, still have the .psd file, I keep backups of everything, so your project is safe with me) 
+![Untitled7](https://github.com/Stolgeth/english-for-designers/assets/133216768/b8baad75-08e5-40d0-b256-5c5458feb457)
