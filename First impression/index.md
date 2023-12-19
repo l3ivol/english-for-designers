@@ -60,7 +60,37 @@ I strive for **meticulous design excellence and adhere to analytical decision ma
 I moved away from my parents when I was 14 to live independently and support myself. Since then, I have faced hardships and various challenges every day, which have hardened me and given me a wealth of life experience that I have carried over into design. This profession has been a great opportunity for me to show my skills and truly define my place in the modern world.
 
 ---
+
+# My Projects:
+
 [GO UP](https://stolgeth.github.io/english-for-designers/about_me.html#return-to-navigation-page)
 
-(This is the 10 years old picture, still have the .psd file, I keep backups of everything, so your project is safe with me) 
-![Untitled7](https://github.com/Stolgeth/english-for-designers/assets/133216768/b8baad75-08e5-40d0-b256-5c5458feb457)
+## **Poster for the premiere of the movie Home** 
+
+![Untitled7](https://github.com/l3ivol/english-for-designers/blob/main/First%20impression/img/FilmPosterThoughts.png)
+
+## **Demo cracy** 
+I am from Russia and this is my personal reaction to Putin's statement about democracy in the country. Certainly what is happening in Russia can only be considered a demo version of real democracy, freedom and peace, and the time the country is going through is the experience of Stalin's dictatorship. Thus, I use the metaphor of a demo version of the software that suggests that to get the full version of democracy, freedom and peace- get out of Russia.
+
+![Untitled8](https://github.com/l3ivol/english-for-designers/blob/main/First%20impression/img/BivolDEMOfest.png)
+
+## **I want to be on my own when I'm alone** 
+Modern man can hardly imagine his life without a cell phone or laptop. In every important moment of our life we are constantly connected to our devices.
+We use our devices to earn money, communicate on business matters, watch movies and TV shows, browse our favorite websites, etc.
+You may not want to believe it, but modern technology has long since opened up unrestricted access
+to a person's privacy, and individuals and even many companies and law enforcement agencies often use it to their advantage.
+often use it to their advantage. When you shower, browse Instagram before bed, eat, pick your nose, worry too much about your appearance, or as a guy put on women's clothes just to dance in private, you have a device with you that is constantly listening to what you are saying,
+and uses a camera to show you what's going on around you. This information is used to tailor advertising to specific users, gather statistics for large companies, and even raise money.
+For this reason, with the help of a series of posters, I encourage you to carefully read the terms of the user agreement for the product and individual applications you purchase and set the right amount of information you are willing to share. In today's world, nothing is more valuable than information.
+
+![Untitled9](https://github.com/l3ivol/english-for-designers/blob/main/First%20impression/img/Screenshot%202023-12-19%20at%2012.35.47.png)
+
+## **Posters for the Rave culture** 
+The aim of the work was to bring back the original values of rave culture and share it with the public to dispel hate and the prejudice around rave culture. 
+The new concept of a set of 8 posters for a client from the music industry, refers to the possibility of looking at the posters (electronic music and rave culture) from 3 different perspectives, explaining the basic principles of the rave movement, the original values of the subculture and the rules of conduct at rave events.
+The first superficial angle- is the essence of the music, the feelings, the story, the attributes of raves and the main visual part- through the eyes of a person who has some idea about electronic music but doesn't know it in depth. The second educational angle- has educational value for people who have no idea about rave culture, and for those who have little idea, it explains how to perceive the first angle. The third is fancier hidden code, info available based on knowledge of rave culture and their specific risu.
+
+
+
+
+
