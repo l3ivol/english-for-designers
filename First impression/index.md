@@ -4,9 +4,6 @@
 - [About](#about)
 - [Featured Projects](#featured-projects)
 
-### Return to navigation page
-[BACK](https://stolgeth.github.io/english-for-designers/index.html)
-
 ### Content:
 
 - [**About me**](https://stolgeth.github.io/english-for-designers/about_me.html#about-me)
@@ -17,10 +14,10 @@
 
 - [**My origin story**](https://stolgeth.github.io/english-for-designers/about_me.html#my-origin-story)
 
-# Hi! I am Tomáš Trlíček your DiS.Grafik
-### (You were born with it, I studied to get here!)
+# Hello, I'm Vlad, a multi-disciplinary designer and art director living in Prague.
+### (DiS.Graphic designer who loves his profession and improving every day!)
 
-![Profile Pircture](https://github.com/Stolgeth/english-for-designers/assets/133216768/28e6038b-529e-428e-9811-f4db8209a9e9)
+![Profile Pircture]([https://github.com/Stolgeth/english-for-designers/assets/133216768/28e6038b-529e-428e-9811-f4db8209a9e9](https://github.com/l3ivol/english-for-designers/blob/main/First%20impression/img/photo.md))
 
 ## About me
 
