@@ -17,7 +17,7 @@
 # Hello, I'm Vlad, a multi-disciplinary designer and art director living in Prague.
 ### (DiS.Graphic designer who loves his profession and improving every day!)
 
-![Profile Pircture]([./photo.md)
+![Profile Pircture]([./photo.md](https://github.com/l3ivol/english-for-designers/blob/main/First%20impression/img/DALL·E%202023-12-15%2004.45.23%20-%20a%20photo%20of%20simple%20being%20villain%20assembled%20from%20plastic%20trash%20.png))
 
 ## About me
 
