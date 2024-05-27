@@ -1,3 +1,4 @@
+# Work in process
 Hi, Justin. I want to tell you about my journey in design, because I think I can inspire the guys who are in my shoes.
 
 I spent my entire childhood dreaming of becoming a doctor.
