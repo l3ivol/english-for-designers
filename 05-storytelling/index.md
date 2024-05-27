@@ -37,6 +37,7 @@ These memories mean a lot to me, and I want to believe that anyone who finds the
 
 I am now graduating from university with a degree in graphic design, my life is all about art and creativity, from the everyday things I do to the amount of people I am surrounded by, which makes me truly happy. I'm finally settling down and feel like I belong. I recently did a project dedicated to my future clothing brand, the intention of which is to unleash the creative potential of each individual. I find this coincidence very symbolic in the context of the story I told today!
 
+### "CREATOR"
 ![Clothing brand](https://github.com/l3ivol/english-for-designers/blob/main/05-storytelling/img/posters%201%20mockup.png)
 
 I want to become a real specialist in my profession, to become a part of the design community, but it is not enough for me just to be excellent at what I do. I truly want to change the world of design for the better, so I have a big goal to influence it in a way that will change people's world, to contribute to new discoveries in the world of visual communication.
