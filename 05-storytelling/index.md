@@ -28,6 +28,7 @@ I became really interested and I started to discover new personality traits in m
 I realized that, without noticing it myself, I was sharing with the guys my opinion about their creative works and giving them recommendations, which the guys used, and after that I almost always received positive feedback. That's how I realized that I always have a lot of interesting creative ideas that I come up with literally on the spot for any situation, I have taste and, if it can be called that, a special vision, which I have always considered important for an artist. I felt a new power within myself that I never even dreamed I had. 
 I wanted to cry because I was once again so inspired by something that I was ready to dedicate my whole life to it! In result serious and pragmatic Vlad changed and became a bright, cheerful and filled with creativity. I was open to everything! 
 
+### The new Vlad
 ![New Vlad](https://github.com/l3ivol/english-for-designers/blob/main/05-storytelling/img/IMAGE%202024-05-27%2023%3A37%3A53.jpg)
 
 With great enthusiasm I started studying design programs, because I thought it was a good way to combine creative work and earn money. 
