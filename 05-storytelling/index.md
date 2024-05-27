@@ -4,7 +4,7 @@
 
 
 
-Dear friends, glad to see you. Today I want to tell you about my path in design, because I think I can inspire the guys like me.
+Dear friends, glad to see you! Today I want to tell you about my path in design, because I think I can inspire the guys like me.
 
 All my childhood I dreamed of becoming a doctor. In kindergarten I often dressed up in costumes and played the role of a doctor. I was always protective of my peers who were being bullied.
 In computer games like "Call Of Duty", I chose a character with medical abilities.   I was in a chemistry and biology class and was always participating in science competitions and didn't associate myself with anything creative.
