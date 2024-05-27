@@ -1,4 +1,7 @@
-Creator: Our goal is to become a bridge between designer and consumer, to remove the boundaries of traditional ideas about clothing and offer everyone the opportunity to express their unique individuality.
+# More about my last project- clothing brand "Creator"
+ 
+Creator's goal is to become a bridge between designer and consumer, to remove the boundaries of traditional ideas about clothing and offer everyone the opportunity to express their unique individuality.
+
 We go by slogan:
 
 ### "Everyone is a creator!"
