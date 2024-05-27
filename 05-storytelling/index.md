@@ -5,7 +5,10 @@
 Dear friends, glad to see you. Today I want to tell you about my path in design, because I think I can inspire the guys like me.
 
 All my childhood I dreamed of becoming a doctor. In kindergarten I often dressed up in costumes and played the role of a doctor. I was always protective of my peers who were being bullied.
-In computer games like “Call Of Duty”, I chose a character with medical abilities.   I was in a chemistry and biology class and was always participating in science competitions and didn't associate myself with anything creative. 
+In computer games like "Call Of Duty", I chose a character with medical abilities.   I was in a chemistry and biology class and was always participating in science competitions and didn't associate myself with anything creative.
+
+![Call of Duty](https://github.com/l3ivol/english-for-designers/blob/main/First%20impression/img/IMAGE%202023-12-19%2011%3A04%3A12.jpg](https://github.com/l3ivol/english-for-designers/blob/main/05-storytelling/img/izNPJ65.jpg)
+
 
 In high school, I watched shows like “Dr. House” and even online YouTube shows about neurosurgery and was really excited. So much so that I was confident in who I was and what I was going to do with my life. I didn't see myself as anything but a doctor! It was very important to me to help the people around me!
 I entered the medical faculty of a prestigious medical university in Russia. Remembering that time I still have goosebumps from daily rises at 6 In the morning.   Anatomy classes, where we were taught by the example of embalmed body parts by people who after death donated their bodies to science.   Night duty, on which you are obliged to help patients who have problems with even going to the bathroom by themselves. It's an unforgettable emotion, I was doing pretty well, learning a lot of new things, until one day I had a strange feeling that I was missing something and not doing what my personality demanded. 
