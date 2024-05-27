@@ -43,5 +43,8 @@ I am now graduating from university with a degree in graphic design, my life is 
 I want to become a real specialist in my profession, to become a part of the design community, but it is not enough for me just to be excellent at what I do. I truly want to change the world of design for the better, so I have a big goal to influence it in a way that will change people's world, to contribute to new discoveries in the world of visual communication.
 ### See you on the path!
 
+- [**More about my last project- clothing brand "Creator"**](https://github.com/l3ivol/english-for-designers/blob/main/05-storytelling/firstdraft.md)
 - [**Draft In My Native Language**](https://github.com/l3ivol/english-for-designers/blob/main/05-storytelling/firstdraft.md)
 - [**Process**](https://github.com/l3ivol/english-for-designers/blob/main/05-storytelling/process.md)
+
+
