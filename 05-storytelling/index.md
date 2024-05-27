@@ -9,9 +9,10 @@ In computer games like "Call Of Duty", I chose a character with medical abilitie
 
 ![Call of Duty]([https://github.com/l3ivol/english-for-designers/blob/main/05-storytelling/img/izNPJ65.jpg])
 
-
 In high school, I watched shows like “Dr. House” and even online YouTube shows about neurosurgery and was really excited. So much so that I was confident in who I was and what I was going to do with my life. I didn't see myself as anything but a doctor! It was very important to me to help the people around me!
 I entered the medical faculty of a prestigious medical university in Russia. Remembering that time I still have goosebumps from daily rises at 6 In the morning.   Anatomy classes, where we were taught by the example of embalmed body parts by people who after death donated their bodies to science.   Night duty, on which you are obliged to help patients who have problems with even going to the bathroom by themselves. It's an unforgettable emotion, I was doing pretty well, learning a lot of new things, until one day I had a strange feeling that I was missing something and not doing what my personality demanded. 
+
+![Dr.House](https://github.com/l3ivol/english-for-designers/blob/main/05-storytelling/img/p7892177_b_h9_ac.jpg)
 
 It took me a while to realize the feeling, but I definitely felt panic because all my attention was focused on medicine, I was afraid that maybe I had chosen the wrong life for me, simply because I was always focused on one scenario. I thought: yes, I've dreamed of being a doctor all my life, but maybe this isn't me? 
 Maybe I've switched? In the back of my mind, I wanted to try everything at once. To go to different places, to try my hand at more things that I had ignored for a long time. 
