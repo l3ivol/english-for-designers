@@ -1,4 +1,4 @@
-# THE PATH OF MY DESIGN
+# "THE PATH OF MY DESIGN"
 ### by Vladislav Bivol
 ### 27 May 2024
 
